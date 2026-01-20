@@ -1,0 +1,33 @@
+
+MCQ 
+- 80 minutes for 55 questions
+FRQ
+- 100 minutes
+- Questions:
+	- Concept application
+		-  Easy, time consuming question 
+		- Will give you a source and wants you to interpret it and come to conclusions about it.
+		- EX: a heatmap of education levels asking which area has most educated people and what policies could have led to it
+	- SCOTUS
+		- Need to memorize all cases
+		- Can give you excerpt of a random case and you need to relate it to a required case
+	- Argumentative
+		- give you claims to choose from
+		- have you defend ONE claim
+		- need minimum 2 pieces of evidence
+			- at least ONE piece needs to be from:
+				- Brutus 1
+				- Federalist #10
+				- US constitution
+			- Use another from another foundational document or from personal study
+		- reasoning
+			- give an example of how evidence and/or an instance of something similar and/or a good hypothetical supports your claim
+		- rebuttal
+			- give a thesis for the other side
+			- disprove the thesis
+			- use another claim, don't use what other's think of YOUR claim. Rebuttal needs to be towards THEIR beliefs.
+	- Straight-up knowledge questions -- rogue memorization
+		- NEED TO KNOW SPECIFIC VOCABULARY
+	- Comparison questions
+		- will show you multiple descriptions of 2+ groups
+		- you need to select the depiction of the groups that is most similar to how they operated or most similar to what they believe in reality
