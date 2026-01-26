@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Unit 3 Set 2 - ID's"
             }
+          },
+          {
+            "id": "a3ef3c6c2e50ba70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d9168a8ac1b95586",
@@ -180,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e20372e7b7dea605",
+  "active": "76c32ef70e0f8106",
   "lastOpenFiles": [
+    "Literature",
+    "Human Geography",
     "Untitled.base",
     "2026-01-22.md",
     "US_Government/UNIT 4.md",
